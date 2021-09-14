@@ -2,3 +2,4 @@
 *.log
 /target
 /bin
+#AXAXAXA ON NE POPAL HUKOM
