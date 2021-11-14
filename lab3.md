@@ -8,7 +8,7 @@ a)Египет
 д)10.10.2021 - 17.10.2021
 3.Открыть первый тур
 Результат: https://www.holiday.by/countries/Egypt/tours/1466959-eg-znakomstvo-s-kairom-i-kruiz-po-nilu#date-23529059
-
+***
 Test case 2:
 1.Зайти на https://www.holiday.by/tours
 2.В ценовом фильтре выбрать от 300 BYN до 500 BYN, а также выбрать отель 5 звезд
